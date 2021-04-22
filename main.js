@@ -1,1 +1,3 @@
-var uncalled = new undefined();
+function removeUncalled(uncalled) {
+    
+}
